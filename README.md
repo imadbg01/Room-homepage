@@ -1,6 +1,23 @@
-# Frontend Mentor - Room homepage solution
+<div align="center">
+  <a href="https://github.com/imadbg01/Room-homepage">
+    <img src="./assets/images/logo.svg" alt="Logo" width="50%" height="50%">
+  </a>
 
-This is a solution to the [Room homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+<h1 align="center">Frontend Mentor - Room homepage solution</h1>
+
+  <p align="center">
+    This is a solution to the<a href="https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq">  Room homepage challenge on Frontend Mentor. </a> Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+    <br />
+    <a href="https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq"><strong>Check the hub »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/imadbg01/Room-homepage/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/imadbg01/Room-homepage/issues">Request Feature</a>
+  </p>
+</div>
 
 ## Table of contents
 
@@ -16,9 +33,9 @@ This is a solution to the [Room homepage challenge on Frontend Mentor](https://w
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+I have being working for about 5 years in architecture and designing Home decoration, I love that job I feel like she let me be creative and create thing with almost nothing, and when I soh this challenge on frontend mentor, I was so happy to improve !!
 
 ### The challenge
 
@@ -30,11 +47,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/desktop-image-hero-1.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -69,15 +86,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
